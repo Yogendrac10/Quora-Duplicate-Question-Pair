@@ -1,0 +1,2 @@
+# Quora-Duplicate-Question-Pair
+Model Training :- Data cleaning, Text Preprocessing, Vectorization Done by using TF-IDF, feature engineering done using fuzzywuzzy for better performance, Applied Machine Learning (Random Forest Alogrithm) to predict duplicate questions Model Deployment :- Deployment is done using streamlit. Tool used :- Python(NumPy, Pandas, Streamlit), Machine Learning(Scikit-Learn, RandomForest, XGBoost), NLP(TF-IDF, Bag Of Words)
